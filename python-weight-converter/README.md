@@ -1,9 +1,13 @@
 #Python Weight Converter
 
 ## Features
--Convert kg to pounds
--Convert pounds to kg
+
+-Converts kg to pounds
+
+-Converts pounds to kg
 
 ## Language
-Python
-
+   Python
+   
+# Author
+   Codestar256
